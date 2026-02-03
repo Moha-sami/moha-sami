@@ -33,7 +33,8 @@
 
 
 ## 🚀 Projects
-- 🔹 Project 1: (link)
-- 🔹 Project 2: (link)
+- 🔹 Project 1 (Cruid system): https://github.com/Moha-sami/Cruid-system-Js
+- 🔹 Project 2 (Weather API): https://moha-sami.github.io/Weather-Api/
+- 🔹 Project 3 (Game oop): https://moha-sami.github.io/Game-oop
 
 ✨ Always learning, building, and improving.
