@@ -1,59 +1,93 @@
-<h1 align="center">Hey 👋 I'm Mohamed Sami</h1>
+<h1 align="center">Hey there, I'm Mohamed Sami 👋</h1>
 
-###
+<h3 align="center">Frontend Developer → Backend Learner → Future Full Stack .NET Developer 🚀</h3>
 
-<h4 align="center">💻 Frontend Developer → Backend Learner → Future Full Stack .NET Developer</h4>
+<br/>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-sami-429420152/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:engmohasami@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Moha-sami">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<h2 align="left">🚀 About Me</h2>
+---
 
-###
+## 🚀 About Me
 
-<h4 align="left">🌐 Frontend: HTML, CSS, JavaScript, Angular<br>⚙️ Backend: C#, .NET<br>🗄️ Database: SQL<br>📚 Currently learning: Backend & .NET architecture<br>🎯 Goal: Become a Full Stack .NET Developer</h4>
+- 🌐 Started as a **Frontend Developer** — HTML, CSS, JS, Angular
+- ⚙️ Now diving deep into **Backend Development** with C# and .NET
+- 🗄️ Building real projects with **EF Core, SQL Server, and Clean Architecture**
+- 🎯 Goal: Become a **Full Stack .NET Developer**
+- 📍 Based in **Egypt**
+- 💡 *"The best way to grow is to chase the challenges that scare you the most."*
 
-###
+---
 
-<h3 align="left">🛠️ Tech Stack<br>Frontend<br>HTML5, CSS3, JavaScript, Angular<br>Backend<br>C#, .NET<br>Database<br>SQL Server<br>Tools<br>Git, GitHub, Visual Studio<br>📊 GitHub Stats<br>🌱 I’m currently learning Backend Development</h3>
+## 🛠️ Tech Stack
 
-###
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<h2 align="center">🌐Languages and Tools:</h2>
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-###
+### Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-###
+---
 
-<h2 align="center">🚀 Projects</h2>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moha-sami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-sami&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<p align="left">🔹 Project 1 (Cruid system): https://github.com/Moha-sami/Cruid-system-Js<br>🔹 Project 2 (Weather API): https://moha-sami.github.io/Weather-Api/<br>🔹 Project 3 (Game oop): https://moha-sami.github.io/Game-oop</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moha-sami&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
-###
+---
 
-<h4 align="left">✨ Always learning, building, and improving.</h4>
+## 🚀 Featured Projects
 
-###
+| Project | Description | Tech |
+|---|---|---|
+| 📚 [Library Management System](https://github.com/Moha-sami/Library-Management-System-New) | Full backend system with Clean Architecture, EF Core, data seeding, LINQ queries, and auto fine calculation | C#, EF Core, SQL Server, LINQ |
+| 🌤️ [Weather API App](https://moha-sami.github.io/Weather-Api/) | Live weather data using a public API with clean UI | HTML, CSS, JavaScript |
+| 🎮 [Game OOP](https://moha-sami.github.io/Game-oop) | Browser game built with Object Oriented JavaScript | HTML, CSS, JavaScript |
+| 🔧 [CRUD System](https://github.com/Moha-sami/Cruid-system-Js) | Full CRUD operations with vanilla JavaScript | HTML, CSS, JavaScript |
+
+---
+
+## 🌱 Currently Learning
+
+- 🏗️ ASP.NET Core Web API
+- 🔐 Authentication & Authorization
+- 📐 Repository Pattern & Unit of Work
+- 🧩 Clean Architecture principles
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Moha-sami&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center"><i>"The best way to grow is to chase the challenges that scare you the most."</i> 💪</p>
