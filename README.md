@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Mohamed Sami 👋</h1>
 
-<h3 align="center">Backend Developer → Future Full Stack .NET Developer 🚀</h3>
+<h3 align="center">.NET Backend Developer with Frontend Fundamentals 🚀</h3>
 
 <br/>
 
@@ -20,9 +20,9 @@
 
 ## 🚀 About Me
 
-- ⚙️ Diving deep into **Backend Development** with C# and .NET
-- 🗄️ Building real-world projects with **EF Core, SQL Server, Clean Architecture, and DDD**
-- 🎯 Goal: Become a **Full Stack .NET Developer**
+- ⚙️ Specializing in **.NET Backend Development** with C#, ASP.NET Core, and EF Core
+- 🎨 Strong **Frontend Fundamentals** in HTML, CSS, JavaScript, and Angular
+- 🗄️ Building real-world applications with **Clean Architecture, DDD, and SQL Server**
 - 📍 Based in **Egypt**
 - 💡 *"The best way to grow is to chase the challenges that scare you the most."*
 
@@ -30,16 +30,17 @@
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend (.NET)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Frontend
+### Frontend (Fundamentals)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,10 +77,10 @@
 
 ## 🌱 Currently Learning
 
-- 🏗️ ASP.NET Core Web API
-- 🔐 Authentication & Authorization
+- 🏗️ ASP.NET Core Web API & Microservices
+- 🔐 Authentication & Authorization (JWT, Identity)
 - 📐 Repository Pattern & Unit of Work
-- 🧩 Clean Architecture principles
+- 🧩 Clean Architecture & DDD principles
 
 ---
 
