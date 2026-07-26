@@ -22,7 +22,7 @@
 
 - ⚙️ Specializing in **.NET Backend Development** with C#, ASP.NET Core, and EF Core
 - 🎨 Strong **Frontend Fundamentals** in HTML, CSS, JavaScript, and Angular
-- 🗄️ Building real-world applications with **Clean Architecture, DDD, and SQL Server**
+- 🗄️ Building real-world applications with **3-Tier Architecture, Clean Architecture, and SQL Server**
 - 📍 Based in **Egypt**
 - 💡 *"The best way to grow is to chase the challenges that scare you the most."*
 
@@ -68,7 +68,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏋️ [Gym Management API](https://github.com/Moha-sami/GymManagement-API) | Modern Clean Architecture & DDD backend REST API for gym operations and member management | C#, .NET, EF Core, DDD |
+| 🏋️ [Gym Management System](https://github.com/Moha-sami/Gym_managment_System) | Full-featured Gym Management System built with ASP.NET Core MVC using 3-Tier Architecture (DAL, BLL, PL) | ASP.NET Core MVC, C#, EF Core, SQL Server |
 | 🛒 [E-Commerce API](https://github.com/Moha-sami/ECommerce) | Scalable RESTful API with Repository Pattern, Unit of Work, Result Pattern & Catalog Services | C#, ASP.NET Core, EF Core |
 | 📚 [Library Management System](https://github.com/Moha-sami/Library-Management-System-New) | Full backend system with Clean Architecture, EF Core, data seeding, LINQ queries & business logic | C#, EF Core, SQL Server, LINQ |
 | 🍕 [Restaurant System](https://github.com/Moha-sami/Restaurant-System) | Real-time order orchestration and delivery tracking system using SignalR | ASP.NET Core, SignalR, SQLite |
