@@ -57,11 +57,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moha-sami&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moha-sami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-sami&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Moha-sami&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=Moha-sami&theme=tokyonight&hide_border=true" width="65%" />
 </p>
 
 ## 🚀 Featured Projects
