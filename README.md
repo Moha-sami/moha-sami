@@ -1,47 +1,90 @@
-<h1 align="center">Hi there, I'm Moha Sami 👋</h1>
-<p align="center">
-  <b>Software Developer | Problem Solver | Tech Enthusiast</b>
-</p>
+<h1 align="center">Hey there, I'm Mohamed Sami 👋</h1>
+
+<h3 align="center">Backend Developer → Future Full Stack .NET Developer 🚀</h3>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vcenter=true&width=435&lines=Building+impactful+software;Continuous+learner+&amp;+problem+solver;Turning+code+into+reality" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/mohamed-sami-429420152/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:engmohasami@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Moha-sami">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 💻 Passionate about **Software Development** & **Problem Solving**.
-- 📚 Continuously learning new technologies and sharpening algorithmic skills.
-- 🎯 Goal: Building scalable, high-performance applications.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+- ⚙️ Diving deep into **Backend Development** with C# and .NET
+- 🗄️ Building real-world projects with **EF Core, SQL Server, Clean Architecture, and DDD**
+- 🎯 Goal: Become a **Full Stack .NET Developer**
+- 📍 Based in **Egypt**
+- 💡 *"The best way to grow is to chase the challenges that scare you the most."*
 
 ---
 
-### 📊 GitHub Statistics
+## 🛠️ Tech Stack
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moha-sami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Moha Sami's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moha-sami&theme=tokyonight&hide_border=true" alt="Moha Sami's GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moha-sami&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-sami&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Moha-sami&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🏋️ [Gym Management API](https://github.com/Moha-sami/GymManagement-API) | Modern Clean Architecture & DDD backend REST API for gym operations and member management | C#, .NET, EF Core, DDD |
+| 🛒 [E-Commerce API](https://github.com/Moha-sami/ECommerce) | Scalable RESTful API with Repository Pattern, Unit of Work, Result Pattern & Catalog Services | C#, ASP.NET Core, EF Core |
+| 📚 [Library Management System](https://github.com/Moha-sami/Library-Management-System-New) | Full backend system with Clean Architecture, EF Core, data seeding, LINQ queries & business logic | C#, EF Core, SQL Server, LINQ |
+| 🍕 [Restaurant System](https://github.com/Moha-sami/Restaurant-System) | Real-time order orchestration and delivery tracking system using SignalR | ASP.NET Core, SignalR, SQLite |
+
+---
+
+## 🌱 Currently Learning
+
+- 🏗️ ASP.NET Core Web API
+- 🔐 Authentication & Authorization
+- 📐 Repository Pattern & Unit of Work
+- 🧩 Clean Architecture principles
 
 ---
 
 <p align="center">
-  <i>⚡ "First, solve the problem. Then, write the code." – John Johnson</i>
+  <img src="https://komarev.com/ghpvc/?username=Moha-sami&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+<p align="center"><i>"The best way to grow is to chase the challenges that scare you the most."</i> 💪</p>
