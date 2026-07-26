@@ -54,10 +54,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Contributions & Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moha-sami&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://ghchart.rshah.org/2196F3/Moha-sami" alt="Moha Sami's GitHub Contribution Chart" width="95%" />
 </p>
 
 <p align="center">
