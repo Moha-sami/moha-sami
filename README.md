@@ -61,10 +61,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moha-sami&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Moha-sami&theme=tokyonight&hide_border=true" width="95%" />
-</p>
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
